@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.game {
+  width: 306px;
+  height: 306px;
+  background-color: aqua;
+  display: flex;
+  flex-flow: wrap;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid white;
+  background-color: indianred;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+}
